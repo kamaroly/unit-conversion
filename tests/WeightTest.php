@@ -2,8 +2,8 @@
 
 namespace Kamaro\UnitConversion\Tests;
 
-use PHPUnit\Framework\TestCase;
 use Kamaro\UnitConversion\Weight;
+use PHPUnit\Framework\TestCase;
 
 class WeightTest extends TestCase
 {
